@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/HuseyinCengiz/mssc-beer-order-service.svg?style=svg)](https://circleci.com/gh/HuseyinCengiz/mssc-beer-order-service)
+[![CircleCI](https://circleci.com/gh/HuseyinCengiz/mssc-beer-order-service/tree/initial-project.svg?style=svg)](https://circleci.com/gh/HuseyinCengiz/mssc-beer-order-service)
 
 # MSSC Beer Order Service
 
